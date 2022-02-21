@@ -1,4 +1,4 @@
-# Slide_show
+# Slide_Show
 # Snake_Game
 
 ## A small Project in which I used JavaScript and Css to create a simple Responsiv Slide show.
